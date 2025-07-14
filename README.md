@@ -9,7 +9,7 @@ I'm passionate about web development, open source, and machine learning. Welcome
 - 📚 Frameworks: React, Node.js, Spring Framework
 - 🛠️ Tools: Git, Docker, VS Code
 - 👀 I’m interested in Rust Programming
-- 🌱 I’m currently learning Rust and Google Digital Cloud Leader
+- 🌱 I’m currently learning Rust and AWS Cloud Certification
 
 ## 📫 Connect with Me
 - [Twitter](https://x.com/iamshr4n)
